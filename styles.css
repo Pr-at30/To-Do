@@ -1,0 +1,70 @@
+html {
+  min-height: 100%;
+  overflow-y: scroll;
+}    
+body {
+   min-height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://cdn.wallpaperhub.app/cloudcache/7/4/f/3/d/5/74f3d51cbec9db78da32e103de1b28538af1b76a.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+}
+
+.add-item {
+  text-align: center;
+  padding: 4em 0em 4em 0em;
+}
+
+input[type="text"] {
+  height: 5vh;
+  width: 60%;
+}
+
+.submit {
+  height: 5vh;
+  padding: 0% 2% 0% 2%;
+}
+
+.done {
+  background-color: rgb(99, 197, 99);
+}
+
+.clear {
+  text-align: center;
+  margin: 2em;
+}
+
+.butn {
+  padding: 1.5%;
+}
+
+.lists {
+  padding: 1em 10em;
+}
+
+.item {
+  text-align: left;
+  margin: 20px;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dbtn {
+  padding: 0% 0% 0% 5%;
+}
+
+
+.ilist {
+  text
+} 
